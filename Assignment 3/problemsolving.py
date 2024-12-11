@@ -10,7 +10,7 @@ REGION = 'us-east-2b'  # AWS region details
 S3_BUCKET = 'lalithachennapragada-backup-bucket'  #  S3 bucket name
 EMAIL_FROM = 'lalithalabcat@gmail.com'  # sender email
 EMAIL_TO = 'lalitha.chennapragada88@gmail.com'  # recipient email
-EMAIL_PASSWORD = 'lab@Password'  # sender email password
+EMAIL_PASSWORD = 'tjwy auzw lgxk cbfx'  # sender email password
 SMTP_SERVER = 'smtp.gmail.com'  # Use your email provider's SMTP server
 SMTP_PORT = 587
 
