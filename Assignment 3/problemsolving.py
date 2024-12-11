@@ -8,9 +8,9 @@ from datetime import datetime
 # AWS Configuration
 REGION = 'us-east-1a'  # AWS region details
 S3_BUCKET = 'lalithachennapragada-backup-bucket'  #  S3 bucket name
-EMAIL_FROM = 'lalitha@chennapragada.com'  # sender email
-EMAIL_TO = 'user-email@chennapragada.com'  # recipient email
-EMAIL_PASSWORD = 'password123'  # sender email password
+EMAIL_FROM = 'lalithalabcat@gmail.com'  # sender email
+EMAIL_TO = 'lalithachennapragada88@gmail.com'  # recipient email
+EMAIL_PASSWORD = 'lab@Password'  # sender email password
 SMTP_SERVER = 'smtp.gmail.com'  # Use your email provider's SMTP server
 SMTP_PORT = 587
 
