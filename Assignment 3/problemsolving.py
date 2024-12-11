@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
 # AWS Configuration
-REGION = 'us-east-1'  # AWS region details
+REGION = 'us-east-2b'  # AWS region details
 S3_BUCKET = 'lalithachennapragada-backup-bucket'  #  S3 bucket name
 EMAIL_FROM = 'lalithalabcat@gmail.com'  # sender email
 EMAIL_TO = 'lalitha.chennapragada88@gmail.com'  # recipient email
